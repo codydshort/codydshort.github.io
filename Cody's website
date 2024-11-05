@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>Cody's Professional Portfolio</title>
+  </head>
+
+  <body>
+    
+    <h1>
+      Welcome to Cody's Professional Portfolio
+    </h1>
+    
+    <p>
+      Cody was born and raised in Birmingham. She graduated from John Carroll Catholic High School and received a Bachelor of Arts in English Literature from Tuskegee University. Upon graduation, she moved to Austin, Texas to start a career in software sales. She left Texas in 2018 to pursue her dream of working in media as a journalist. Since then, Cody has built a resume of producing, writing, and content creation. Over the years, Cody has worked for Bham Now, Summit Media, ABC 33/40, and WBHM. Cody has a knack for smart storytelling, commentary, and podcasting.
+    </p>
+    
+    <h2>Featured Work</h2>
+    <ul>
+      <li><a href="https://www.bhamnow.com/author/cody">Bham Now Articles</a></li>
+      <li><a href="https://www.summitmedia.com/portfolio/cody">Summit Media Portfolio</a></li>
+      <li><a href="https://www.abc3340.com/author/cody">ABC 33/40 News Segments</a></li>
+    </ul>
+
+    <h2>Contact Cody</h2>
+    <p>Feel free to reach out for collaborations or inquiries about my work.</p>
+
+    <img src="https://resources.newhouse.syr.edu/directory/wp-content/uploads/sites/6/2020/07/dan-p-web.jpg" alt="Cody's professional photo"/>
+    
+  </body>
+</html>
